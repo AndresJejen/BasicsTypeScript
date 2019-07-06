@@ -122,7 +122,6 @@ class UsuarioExample{
     }
 }
 
-
 var User = new UsuarioExample("Pedro");
 User.register();
 User.ageInYears();
